@@ -1,3 +1,4 @@
+[![Code Climate](https://codeclimate.com/github/deniseyu/inject-challenge/badges/gpa.svg)](https://codeclimate.com/github/deniseyu/inject-challenge)
 # Rewriting Inject
 
 ### Week 2 Challenge Instructions
